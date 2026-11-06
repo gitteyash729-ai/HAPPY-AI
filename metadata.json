@@ -1,0 +1,6 @@
+{
+  "name": "Happy AI",
+  "description": "Your warm, brotherly, 100% offline & private AI friend. Talks with you in Hindi, Marathi, English, and Hinglish with true emotional companion support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
